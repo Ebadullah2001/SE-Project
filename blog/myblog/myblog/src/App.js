@@ -34,7 +34,7 @@ function App() {
     <div>
       {/* <Navbar /> */}
       <BrowserRouter>
-        <div className="cotent">
+        <Switch>
           <Route path={"/home"} exact component={Home} />
           <Route path={"/registerform"} exact component={Register} />
           <Route path={"/Adminpage"} exact component={Adminpage} />
@@ -53,10 +53,10 @@ function App() {
           <Route path={"/category"} component={Catergory} />
           <Route path={"/bookmark"} component={Bookmark} />
           <Route path={"/profile"} component={Profilepage} />
-          <Route path={"/loginform"} component={Login} />
+          <Route path={"/"} component={Login} />
           <Route path={"/readmore"} component={Readmore} />
           <Route path={"/readmoreadmin"} component={Readmoreadmin} />
-        </div>
+        </Switch>
       </BrowserRouter>
     </div>
 
