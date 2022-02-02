@@ -1,0 +1,18 @@
+#chjknbk {
+  margin-top: 150px;
+  border: solid #f87c0e;
+  background-color: none;
+  border-radius: 10px !important;
+  padding: 20px;
+  text-align: center !important;
+  color: black !important;
+}
+#readmore {
+  background-color: #f87c0e !important;
+  color: white !important;
+  border-radius: 10px !important;
+  border-color: #f87c0e;
+}
+.w {
+  font-weight: bold;
+}

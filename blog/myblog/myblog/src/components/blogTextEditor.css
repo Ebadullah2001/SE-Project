@@ -1,0 +1,27 @@
+#ch1,
+#ch2 {
+  border: none;
+  color: white;
+  background: #f87c0e;
+}
+#bp {
+  border: solid #f87c0e !important;
+  border-radius: 10px !important;
+  margin-top: 7%;
+  margin-left: 5%;
+  /* margin-right: 20%; */
+  width: 90%;
+}
+#btn1 {
+  border: none;
+  color: white;
+  background: #f87c0e;
+  float: left !important;
+}
+#cc1 {
+   padding-top: 20px; 
+}
+
+#uniqueCard{
+  width: 100%;
+}

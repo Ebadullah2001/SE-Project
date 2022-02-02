@@ -1,0 +1,23 @@
+.card-body {
+  background-color: #f87c0e;
+  color: white;
+}
+.btn {
+  color: #f87c0e;
+  background-color: white;
+  border-color: white !important;
+}
+.container-md{
+
+  margin-left: 20px !important;
+}
+.card {
+  width: 24rem;
+}
+.card-img-top {
+  width: 24rem;
+  height: 250px;
+}
+#cat {
+  margin-top: 150px;
+}
